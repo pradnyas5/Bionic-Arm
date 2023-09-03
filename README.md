@@ -1,5 +1,5 @@
 # Bionic-Arm
-A "7 DOF" position-controlled bionic arm designed to be used for on-desk tasks. The project was associated with [Technodune Pvt. Ltd.](http://technodune.com/), a startup based out of Pune, India.
+A "7 DOF" position-controlled bionic arm designed to be used for on-desk tasks. The project was associated with **[Technodune Pvt. Ltd.](http://technodune.com/)**, a startup based out of Pune, India.
 
 The arm was developed from scratch and included the following contribution:
   1. Mechanical assembly and design optimization.
