@@ -7,7 +7,9 @@ The arm was developed from scratch and included the following contribution:
   3. Software setup and testing.
 
 >  Contributed to minor design improvements for dexterous manipulation.
+
 >  Implemented inverse kinematics to generate positional movement using ATMega microcontroller.
+
 >  Programmed ESP32S to transfer data from arm to a webpage (vice-versa) for robot arm control.
 
 
